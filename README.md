@@ -1,4 +1,4 @@
-# 🛰️ TaskManager - Futuristic Tech & Glassmorphic Command Center
+# TaskManager - Futuristic Tech & Glassmorphic Command Center
 
 Welcome to **TaskManager**, a premium, high-end Java JSP & Servlet task management platform featuring a breathtaking **Futuristic Tech & Glassmorphic UI** inspired by top-tier modern dark interfaces (Vercel, Linear, and Stripe). 
 
@@ -6,18 +6,7 @@ This application bridges Java JSP backends with a beautifully polished, hardware
 
 ---
 
-## 🎨 Premium UI/UX Highlights
-
-* **Glassmorphic Glass Panels:** Elegant container panels with translucent backgrounds (`rgba(20, 18, 43, 0.45)`), saturated backdrop blurring (`backdrop-filter: blur(16px)`), upper inset reflections, and soft glowing semi-transparent borders.
-* **Abstract 3D Floating SVG Elements:** Interactive background featuring concentric neon cyber-rings rotating in 3D projection, dynamic glowing glass spheres, and twinkling space dust.
-* **3D Holographic Beranda Center:** A custom wireframe rotating tech star inside concentric orbiting vector rings on the homepage command center.
-* **Cybernetic Radar Empty-States:** When no tasks are detected, a custom turquoise glowing radar with an active rotating scanning sweep beam will animate to scan the workstation.
-* **Siber Glow Focus Inputs:** Interactive text inputs and selects that emit a soft purple lilac aura (`rgba(167, 139, 250, 0.35)`) and upscale action buttons with lift translation effects upon hover.
-* **Unified Dark theme:** Harmonious custom palette utilizing deep space indigo, neon purple, cyan accents, and glowing pink aurora gradients.
-
----
-
-## 🚀 Key Features
+## Key Features
 
 * **Multi-user Authentication:** Premium registration and login screens with glowing input validations.
 * **Individual Tasks Command Center:** Track personal tasks with progress bars, status counters, and instant Search/Filter/Sort capabilities.
@@ -27,7 +16,7 @@ This application bridges Java JSP backends with a beautifully polished, hardware
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 * **Backend Engine:** Java EE JSP (Java Server Pages) & Servlet.
 * **Database Layer:** MySQL Database (Connector/J).
@@ -36,7 +25,7 @@ This application bridges Java JSP backends with a beautifully polished, hardware
 
 ---
 
-## 🛠️ Step-by-Step Local Installation
+## Step-by-Step Local Installation
 
 To run this application locally without configuring complex IDE environments like NetBeans or Eclipse, a convenient automation script (`run_locally.ps1`) is provided.
 
@@ -67,17 +56,17 @@ conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/task_manager", "
 
 ---
 
-## 🧭 Application Access
+## Application Access
 
 Once the startup process completes successfully, open your favorite browser and access:
 
-👉 **[http://localhost:8082/](http://localhost:8082/)**
+ **[http://localhost:8082/](http://localhost:8082/)**
 
 You can register a new cybernetic account on the spot or sign in to begin organizing your galactic missions!
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ```
 TaskManager/
 ├── tomcat/                 # Portable Tomcat files (generated upon run)
@@ -95,4 +84,3 @@ TaskManager/
 
 ---
 
-*Made with love for premium interfaces. Organisasi misi kamu menjadi jauh lebih indah dan futuristik! 🛰️✨*
