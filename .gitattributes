@@ -1,0 +1,5 @@
+# Force GitHub Linguist to detect .jsp files as Java code
+*.jsp linguist-language=Java
+*.jsp linguist-detectable=true
+*.jspf linguist-language=Java
+*.jspf linguist-detectable=true
