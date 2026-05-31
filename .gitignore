@@ -1,0 +1,11 @@
+# Ignore Tomcat portable folder
+tomcat/
+
+# Ignore compiled class outputs
+build/
+
+# Ignore NetBeans metadata
+nbproject/
+private/
+dist/
+nbdist/
